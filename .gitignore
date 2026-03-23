@@ -1,8 +1,4 @@
 *.class
-*.log
-*.tmp
 rough.java
-.idea
-.idea/
 out/
 CodePractice.iml
